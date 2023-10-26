@@ -7,11 +7,3 @@ A claims dataset of ABC Healthcare company has been used to examine a population
 ## DATA DESCRIPTION
 
 A dashboard has been created based on the specifications provided below in the Customer Service Request (CSR) 
-
-## METHODOLOGY
-
-
-## RESULTS
-
-
-## CONCLUSION
